@@ -1,0 +1,54 @@
+Cloud Concepts
+
+Module 1
+Topics Covered
+Principles of Cloud Computing
+Cloud Deployment Models (Public, Private, Hybrid)
+Cloud Service Models (IaaS, PaaS, SaaS)
+Benefits of Azure Cloud
+Consumption-Based Model
+Azure Core Services
+
+Module 2
+Topics Covered
+Compute Services (VMs, Containers, App Services)
+Storage Services (Blob, File, Table, Queue)
+Networking Services (VNet, VPN, Load Balancer)
+Database Solutions (SQL, Cosmos DB, PostgreSQL)
+Azure Marketplace Overview
+Identity and Governance
+
+Module 3
+Topics Covered
+Azure Active Directory (AAD)
+Users and Groups Management
+Role-Based Access Control (RBAC)
+Subscriptions and Management Groups
+Azure Policy and Compliance
+Storage Accounts
+
+Module 4
+Topics Covered
+Storage Account Types
+Blob Storage and Access Tiers
+Azure File Shares
+Storage Security Features (Encryption, SAS)
+Azure Storage Explorer
+Virtual Networks
+
+Module 5
+Topics Covered
+VNet Design and Implementation
+Subnetting and Network Security Groups (NSG)
+VPN Gateway and ExpressRoute
+Azure DNS and Private Endpoints
+Load Balancing and Traffic Management
+Azure Cost Management & SLA
+
+Module 6
+Topics Covered
+Azure Pricing Model
+Azure Cost Management and Billing
+Service Level Agreements (SLA)
+Azure Reservations and Savings Plans
+Total Cost of Ownership (TCO) and ROI
